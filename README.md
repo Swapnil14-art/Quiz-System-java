@@ -15,15 +15,18 @@ A Java-based interactive quiz application with a graphical user interface (GUI) 
 ## Application Screenshots 📸
 
 ### Main Menu / Landing Page
-![Landing Page - Main Menu Interface](docs/landingpage.png)
+<img src="docs/landingpage.png" alt="Landing Page - Main Menu Interface" width="100%" height="auto">
+
 *The main entry point of the application showing the Online Quiz Platform title with two options: Admin and Player modes.*
 
 ### Admin Panel - Add New Questions
-![Admin Page - Question Management Interface](docs/adminpage.png)
+<img src="docs/adminpage.png" alt="Admin Page - Question Management Interface" width="100%" height="auto">
+
 *Admin interface for adding new quiz questions. Allows input of question text, four multiple-choice options (A, B, C, D), and the correct answer.*
 
 ### Player Mode - Quiz Question Display
-![Player Page - Quiz Question Interface](docs/playerquestionpage.png)
+<img src="docs/playerquestionpage.png" alt="Player Page - Quiz Question Interface" width="100%" height="auto">
+
 *Example of a quiz question displayed during Player mode. Shows "Java is?" with four clickable button options: Programming Language, Car, OS, and Game.*
 
 ## Project Structure 📁
