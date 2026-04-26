@@ -27,7 +27,11 @@ A Java-based interactive quiz application with a graphical user interface (GUI) 
 ### Player Mode - Quiz Question Display
 <img src="docs/playerquestionpage.png" alt="Player Page - Quiz Question Interface" width="100%" height="auto">
 
-*Example of a quiz question displayed during Player mode. Shows "Java is?" with four clickable button options: Programming Language, Car, OS, and Game.*
+*Example of a quiz question displayed during Player mode. Shows "Java is?" with four clickable button options: Programming Language, Car, OS, and Game.*### Player Mode - Quiz Question Display
+
+<img src="docs/scoretxt.png" alt="Player Page - Quiz Score Text File" width="100%" height="auto">
+
+*Example of a quiz player score records, saved in the 'score.txt' file .*
 
 ## Project Structure 📁
 
